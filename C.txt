@@ -1,2 +1,6 @@
 one line
 second line
+3
+4
+5
+6
