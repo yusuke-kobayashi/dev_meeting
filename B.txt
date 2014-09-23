@@ -4,3 +4,4 @@ third line
 forth line
 ５行目
 4
+6
